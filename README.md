@@ -14,7 +14,7 @@ Many tasks in our application do not need to run synchronously, for example, ema
 **Environment variables**
 
 - Edit your environment variables that are in the `.env.example` file, change it to` .env`. 
-- Register with [Mailtrap](https://mailtrap.io) and manage your credentials.
+- Register with [Mailtrap](https://mailtrap.io) and get your credentials.
 
 **At the terminal**
 
