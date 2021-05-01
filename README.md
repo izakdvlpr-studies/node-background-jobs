@@ -1,4 +1,4 @@
-# background-jobs-node
+# Background Jobs Node
 
 Many tasks in our application do not need to run synchronously, for example, emails, reports, etc. In such cases, the best thing to do is to process these tasks in the background.
 
