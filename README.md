@@ -11,6 +11,13 @@ Many tasks in our application do not need to run synchronously, for example, ema
 
 # Usage
 
+**Environment variables**
+
+- Edit your environment variables that are in the `.env.example` file, change it to` .env`. 
+- Register with [Mailtrap](https://mailtrap.io) and manage your credentials.
+
+**At the terminal**
+
 - Run `npm install` or `yarn install`.
 - Create the redis container by running: `docker run --name redis -p 6379:6379 -d -t redis:alpine`.
 - Run `yarn dev` or `yarn install`.
