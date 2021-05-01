@@ -1,4 +1,4 @@
-import { Mail } from '../../app/lib/Mail';
+import { Mail } from '@app/lib/Mail';
 
 export const registrationMail = {
   key: 'RegistrationMail',
