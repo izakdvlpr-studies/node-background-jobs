@@ -29,7 +29,7 @@ Many tasks in our application do not need to run synchronously, for example, ema
 
 ## Usage
 
-- Clone this repository: `git clone https://github.com/zevdvlpr/dev-radar`
+- Clone this repository: `git clone https://github.com/zevdvlpr/node-background-jobs`
 - Run `npm install` or `yarn install`
 - Edit your environment variables that are in the `.env.example` file, change it to` .env`
 - Register with [Mailtrap](https://mailtrap.io) and get your credentials
