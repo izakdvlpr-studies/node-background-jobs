@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/type-studie-purple" alt="Repo Type" />
       <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/language-typescript-blue" alt="Repo Main Language" /></a>
       <img src="https://img.shields.io/badge/platform-backend-blueviolet" alt="Project Platform" />      
-      <a href="https://github.com/zevdvlpr-studies/node-background-jobs/tree/main/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/ignite-reactjs-ignews?color=red&label=license" alt="Repo License" /></a>
+      <a href="https://github.com/zevdvlpr-studies/node-background-jobs/tree/main/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/node-background-jobs?color=red&label=license" alt="Repo License" /></a>
   </p>     
   <p><a href="https://www.linkedin.com/in/zevdvlpr" target="_blank"><img src="https://img.shields.io/twitter/url?label=Connect%20%40zevdvlpr&logo=linkedin&url=https%3A%2F%2Fwww.twitter.com%2zevdvlpr%2F" alt="Follow" /></a><p>
 </div>
@@ -53,7 +53,7 @@ Many tasks in our application do not need to run synchronously, for example, ema
 
 ## Credits
 
-- [Rocketseat](https://www.youtube.com/channel/rocketseat)
+- [Rocketseat](https://www.youtube.com/c/RocketSeat)
 
 <br>
 <br>
